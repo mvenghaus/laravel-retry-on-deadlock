@@ -15,5 +15,6 @@
       "email": "marcus@venghaus.dev"
     }
   ],
+  "license": "MIT",
   "minimum-stability": "dev"
 }
