@@ -1,0 +1,19 @@
+{
+  "name": "mvenghaus/laravel-retry-on-deadlock",
+  "autoload": {
+    "files": [
+      "src/retry-on-deadlock.php"
+    ]
+  },
+  "require": {
+    "php": "^8.2",
+    "laravel/framework": "*"
+  },
+  "authors": [
+    {
+      "name": "Marcus Venghaus",
+      "email": "marcus@venghaus.dev"
+    }
+  ],
+  "minimum-stability": "dev"
+}
