@@ -1,13 +1,14 @@
 {
   "name": "mvenghaus/laravel-retry-on-deadlock",
+  "description": "A simple function to retry a callback if a deadlock occurs.",
   "autoload": {
     "files": [
       "src/retry-on-deadlock.php"
     ]
   },
   "require": {
-    "php": "^8.2",
-    "laravel/framework": "*"
+    "php": "^8.1",
+    "laravel/framework": "^10"
   },
   "authors": [
     {
